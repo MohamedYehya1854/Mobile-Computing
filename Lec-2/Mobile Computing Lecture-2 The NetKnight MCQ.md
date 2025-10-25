@@ -1,9 +1,6 @@
 # MCQs — Mobile Computing (IT412) — Weeks 3 & 4: Satellite Systems
 
 **Course:** IT412 – Mobile Computing  
-**Lectures:** Week 3 & 4  
-**Instructor:** Prof. Dr. [Name Not Specified]  
-**Purpose:** Multiple Choice Questions (MCQs) covering all lecture contents. Each question includes 4 choices (A, B, C, D), the correct answer, and a short explanation directly based on the lecture text.
 
 ---
 
